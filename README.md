@@ -1,4 +1,2 @@
-# travarsal
-inorder preorder postorder in cpp
-
-welcome to c 
+Data structures
+Here we can have random of codes on datastures(Trees,linkedlist,etc...)
